@@ -1,0 +1,151 @@
+[ x  x  x  x  x 66] [ x  x 93  x  x  x] [ x  x  x  x  x  x] [48  x  6 81 46  x] [53  x 44 37  x 73] [ x  x  x 99  x  x]
+[ x  x 93  x  x  x] [ x  x 98  x  x  x] [ x  x 95  x  x  x] [24  x  x 29 65  x] [ x  x 22  7  x 22] [80  x  x  x 89  x]
+[ x  x  x  x  x  x] [ x  x 95  x  x  x] [ x  x  x  x  x 14] [ x  x  x  x 95  x] [ x  x  x 56  x  x] [ x  x 77  x  x  x]
+[48  x  6 81 46  x] [24  x  x 29 65  x] [ x  x  x  x 95  x] [ x  x  x  x  x  x] [ x  x  x  x  x 72] [ x  x 50  x  x  x]
+[53  x 44 37  x 73] [ x  x 22  7  x 22] [ x  x  x 56  x  x] [ x  x  x  x  x 72] [ x 94  x  x  x 76] [63 93  x  x 57  x]
+[ x  x  x 99  x  x] [80  x  x  x 89  x] [ x  x 77  x  x  x] [ x  x 50  x  x  x] [63 93  x  x 57  x] [35 43  x  x  x  x]
+
+[ x  x  x  x 99 78] [ x 82 51  x 42  x] [55  x 25  x 18  x] [59 81  x  x  x  x] [ x  x 32 45  x 27] [24 69  x  x  x  x]
+[ x 82 51  x 42  x] [18 53  x 69  x 42] [ x 19  x 25  2  x] [ x 61 55  x  x  x] [ x  x  x  x  x 34] [ x  x  x  x  x  x]
+[55  x 25  x 18  x] [ x 19  x 25  2  x] [ x  x 12  x  x  x] [ x  x  x  x  x  x] [ x  x 55  x  x 26] [ x 83  x 77  x  x]
+[59 81  x  x  x  x] [ x 61 55  x  x  x] [ x  x  x  x  x  x] [ x 78 25  x 75  x] [ x  x 94  x  x 38] [ x  x  x  x  x  x]
+[ x  x 32 45  x 27] [ x  x  x  x  x 34] [ x  x 55  x  x 26] [ x  x 94  x  x 38] [ x  2  x  x  x 78] [ x  x  x  x  x 61]
+[24 69  x  x  x  x] [ x  x  x  x  x  x] [ x 83  x 77  x  x] [ x  x  x  x  x  x] [ x  x  x  x  x 61] [ x 14  x  x  x  x]
+
+[ x 62  x  x  x  x] [ x 68  x  x  x 86] [ x 30 87  x  x 32] [38  x  x  x  x 97] [ x 97  x 64  x  2] [ x  x 63  x  x  x]
+[ x 68  x  x  x 86] [ x  x 41  x  x  x] [ x  x  x 68  x  x] [ x  x  x  x  x  x] [55 92  x  x  x  x] [ x 98 61  x  x 47]
+[ x 30 87  x  x 32] [ x  x  x 68  x  x] [ x  x  x  x 60 74] [ x 41 47  x  x  x] [ x  x  x  x  x  x] [ x  x  x 87 51 25]
+[38  x  x  x  x 97] [ x  x  x  x  x  x] [ x 41 47  x  x  x] [36  x  x 97  x 31] [ x  x  x 89  x  x] [ x 53  x  x  x 70]
+[ x 97  x 64  x  2] [55 92  x  x  x  x] [ x  x  x  x  x  x] [ x  x  x 89  x  x] [ x  x  x  x 82  x] [ x  x  x  x  x 46]
+[ x  x 63  x  x  x] [ x 98 61  x  x 47] [ x  x  x 87 51 25] [ x 53  x  x  x 70] [ x  x  x  x  x 46] [ x  2  x  x 98 39]
+
+[ x  x 17  x  x  x] [71  x  x 32 34  x] [ x  x  x 44 18 18] [ x  x  x  x 40  x] [ x  x  x  x  x  x] [ x 57  x  x  x  x]
+[71  x  x 32 34  x] [78  x 24 33  x 57] [ x 76  x 97  x  x] [ x  x  x 13 86  x] [ x  x  x 74 67  x] [37  x  x  x 67  x]
+[ x  x  x 44 18 18] [ x 76  x 97  x  x] [ x  x 77  x  x 52] [ x  5  x  x  x  x] [87  x  x  x  x  x] [ x  x  x  3  x  x]
+[ x  x  x  x 40  x] [ x  x  x 13 86  x] [ x  5  x  x  x  x] [ x  x  x  x  x  x] [ x  x 51 11 22  x] [63  x  x  x  1  2]
+[ x  x  x  x  x  x] [ x  x  x 74 67  x] [87  x  x  x  x  x] [ x  x 51 11 22  x] [ x 88  x  x 61  x] [ x  x  x  x  x 63]
+[ x 57  x  x  x  x] [37  x  x  x 67  x] [ x  x  x  3  x  x] [63  x  x  x  1  2] [ x  x  x  x  x 63] [53  x  x  x  x 64]
+
+[ x  x  x  x  x  x] [78  x  x  x  x  x] [ x  x  x  x  x  x] [ x  x  x  x  x  x] [ x  x 88  x  x 56] [ x  x  x  x  x  x]
+[78  x  x  x  x  x] [ x  x  x 50  x 11] [ x  x  x  x 38  x] [ x 17  x  x  x  x] [48  x 83  x  6  x] [ x  x  x  x  x  x]
+[ x  x  x  x  x  x] [ x  x  x  x 38  x] [20 25  x  x 75 74] [ x  x  x  x  x  x] [ x  x  x  x  x  x] [74  x  x  x  x  x]
+[ x  x  x  x  x  x] [ x 17  x  x  x  x] [ x  x  x  x  x  x] [62  x  x  x  x 86] [ x  x  x  x  x  x] [ x 64  x  x  x  x]
+[ x  x 88  x  x 56] [48  x 83  x  6  x] [ x  x  x  x  x  x] [ x  x  x  x  x  x] [71  x  x 37  x 67] [ x  x  x  x 20  x]
+[ x  x  x  x  x  x] [ x  x  x  x  x  x] [74  x  x  x  x  x] [ x 64  x  x  x  x] [ x  x  x  x 20  x] [ x 81  7  x  4  x]
+
+[ x  x  x  x 58  x] [ x  x  x  x 52 98] [ x  x  x  x  x 91] [ x 41  x  x  x  x] [62 95 56 68  x 59] [43 76  x  5 54 40]
+[ x  x  x  x 52 98] [ x  x  x 34  x 24] [ x  x  x 98 82  x] [ x 64 12  x  x  x] [ x  x 12  x 67  x] [ x  x  x  x  x 17]
+[ x  x  x  x  x 91] [ x  x  x 98 82  x] [ x  x  x  x  x  x] [ x  x  x 64  x 18] [34 53 82 46  x 20] [ x  x 19  x  x 86]
+[ x 41  x  x  x  x] [ x 64 12  x  x  x] [ x  x  x 64  x 18] [ x 57  x  x  x  x] [ x  x  x 76 89  x] [ x  6  x  x 69  x]
+[62 95 56 68  x 59] [ x  x 12  x 67  x] [34 53 82 46  x 20] [ x  x  x 76 89  x] [ x  x  x  x  x 90] [ x  x 72  x 87  x]
+[43 76  x  5 54 40] [ x  x  x  x  x 17] [ x  x 19  x  x 86] [ x  6  x  x 69  x] [ x  x 72  x 87  x] [ 6  x  x  x  x  x]
+
+[ x  x 84 86 25  x] [ x  x  x  x  x  x] [ x  x 15  8  2  x] [98  x  x  x  x 27] [64  x  x 15 29 82] [ x  x 31  x  x 56]
+[ x  x  x  x  x  x] [ x  x  x  3  x  x] [ x  x 33  x  x 34] [92 80  x 32  x 93] [58  x  x 33  x  x] [ x  x  x  x  x  x]
+[ x  x 15  8  2  x] [ x  x 33  x  x 34] [ x 44 28  x 46  x] [39  x  x 71  x  x] [ x  x  x 41 13  x] [ x 71  x 54  x  x]
+[98  x  x  x  x 27] [92 80  x 32  x 93] [39  x  x 71  x  x] [ 2  x 43  x 29  x] [ x  x  x  x 21 16] [ x 60  x 37  x  x]
+[64  x  x 15 29 82] [58  x  x 33  x  x] [ x  x  x 41 13  x] [ x  x  x  x 21 16] [ x  x  x  x  x  x] [ x 74  x  x  x 33]
+[ x  x 31  x  x 56] [ x  x  x  x  x  x] [ x 71  x 54  x  x] [ x 60  x 37  x  x] [ x 74  x  x  x 33] [ x  x  x  x  x  x]
+
+[ x  x  x  x  x  x] [ x 10  x  x 47 48] [66  x  x  x 62  x] [ x 36  x 35  x 91] [67 96  x  x 74  x] [ x  x 48 99  x  x]
+[ x 10  x  x 47 48] [ x 78  x  x  x  x] [ x 10  x  x  x  x] [95 26  x 58 60  x] [ x  x  x 34  x  x] [ x 35  x  x  x  x]
+[66  x  x  x 62  x] [ x 10  x  x  x  x] [ x 91  x 23  x  x] [ x  x  x  x 98 75] [83  x  x 43  x  x] [ x 65  x 45 98 62]
+[ x 36  x 35  x 91] [95 26  x 58 60  x] [ x  x  x  x 98 75] [ 1  x 97  x  x  x] [59 15  x  x 38  x] [70  x  x  x  x  x]
+[67 96  x  x 74  x] [ x  x  x 34  x  x] [83  x  x 43  x  x] [59 15  x  x 38  x] [ x  x  x 65  x 52] [ x  x  x  x  x  x]
+[ x  x 48 99  x  x] [ x 35  x  x  x  x] [ x 65  x 45 98 62] [70  x  x  x  x  x] [ x  x  x  x  x  x] [ x  x  x  2 90 64]
+
+[ x  x 79  x 74  x] [ x  x  x 17 32  x] [ x  x  x 95 61  x] [ x  x  x  x  x 47] [ x 35  x  x 37  x] [54  x  x  x  x  x]
+[ x  x  x 17 32  x] [ x  x  x 30  7 18] [ x  x 14  x 62 74] [ x  x 25  x  x  x] [ x  x  x 68  x  x] [24  x  x  x  x  x]
+[ x  x  x 95 61  x] [ x  x 14  x 62 74] [ x 35  x  x 64  x] [ x 30  x  x  x  2] [63 96  x 88  x 13] [ x  x  x 96  x  x]
+[ x  x  x  x  x 47] [ x  x 25  x  x  x] [ x 30  x  x  x  2] [ x  x  x  x  3  x] [ x  x 34 89  x 98] [63  x  x  3  x  x]
+[ x 35  x  x 37  x] [ x  x  x 68  x  x] [63 96  x 88  x 13] [ x  x 34 89  x 98] [ 4  x 59  x 50  x] [ x  x 92  x 52  x]
+[54  x  x  x  x  x] [24  x  x  x  x  x] [ x  x  x 96  x  x] [63  x  x  3  x  x] [ x  x 92  x 52  x] [75 38  x  x  x  x]
+
+[ x  x  x  x 59 63] [83  x  x  x  x  x] [ x  x  x  x  6  x] [ x  x  x  x 81  x] [ x  x  x 59  x  x] [ x 61 82  9 47  x]
+[83  x  x  x  x  x] [71  x  x 44  5 49] [ x  x  x 83 75  x] [ x  x 79  x  x  x] [31  x  x  x  x 89] [72 93  x  x  x  x]
+[ x  x  x  x  6  x] [ x  x  x 83 75  x] [ x  x  x  x  x  x] [ x  x  x  x  x  x] [ x  x  x 34  x  x] [ x 15  x  x  x  x]
+[ x  x  x  x 81  x] [ x  x 79  x  x  x] [ x  x  x  x  x  x] [ x 47  x 78  x  3] [ x  x  x  x 43 56] [ x  x  x 98 83 65]
+[ x  x  x 59  x  x] [31  x  x  x  x 89] [ x  x  x 34  x  x] [ x  x  x  x 43 56] [11 38  x  x 71  x] [ x  x  x  x  x  x]
+[ x 61 82  9 47  x] [72 93  x  x  x  x] [ x 15  x  x  x  x] [ x  x  x 98 83 65] [ x  x  x  x  x  x] [52 31  x  x  x  x]
+
+[ x 48  x  x  x  x] [ x  x  x 39  1 52] [ x 11 90 12  x  x] [ x  x 90  x  x  x] [27  x  x  x  x  x] [83 65 43 34  x 21]
+[ x  x  x 39  1 52] [28 48  x  x 86  x] [49  x  x  x  x  x] [ x  x 12 53  x  x] [ x  x  x  x  x 49] [ x  x  x  x 14  x]
+[ x 11 90 12  x  x] [49  x  x  x  x  x] [ x 41 23  x 38  x] [36 86  x  x  x  x] [ x  x  x  x  x  x] [ x  x  x  x  x 23]
+[ x  x 90  x  x  x] [ x  x 12 53  x  x] [36 86  x  x  x  x] [ x 74  3 15  x 16] [ x 99 57 13  x 94] [ x  x  x 84  x 69]
+[27  x  x  x  x  x] [ x  x  x  x  x 49] [ x  x  x  x  x  x] [ x 99 57 13  x 94] [ x  1  x  x  x  x] [29 45  x  x  x  x]
+[83 65 43 34  x 21] [ x  x  x  x 14  x] [ x  x  x  x  x 23] [ x  x  x 84  x 69] [29 45  x  x  x  x] [ x  x  x  x  x  x]
+
+[ x  x  5  x  x  x] [11  x  x  x 19 12] [ x  x 13  x  x  x] [ 7  x  x  x  x 85] [ x  x  x  x  x 30] [ x  x  x  x 88  x]
+[11  x  x  x 19 12] [29 98  x  x  x  x] [ x  x  x  x 59  x] [ x 66  x  x 49 72] [ x  x  x  x  x  x] [ x  x 20 11  x  x]
+[ x  x 13  x  x  x] [ x  x  x  x 59  x] [ x  x  x  x  x  x] [ x  x 37 42 16 95] [17  7  x  x  x  x] [ x  x  x 73  x 19]
+[ 7  x  x  x  x 85] [ x 66  x  x 49 72] [ x  x 37 42 16 95] [ x  x 16  x  x  x] [48  x  x  x 18  x] [77  x  x  x  x  x]
+[ x  x  x  x  x 30] [ x  x  x  x  x  x] [17  7  x  x  x  x] [48  x  x  x 18  x] [ x  x  x 35 48 40] [ x  x  x 71  x 89]
+[ x  x  x  x 88  x] [ x  x 20 11  x  x] [ x  x  x 73  x 19] [77  x  x  x  x  x] [ x  x  x 71  x 89] [89  x  x  x  x  x]
+
+[ x  x 93  x  x  x] [ x  x  x 94  6  x] [ x  x  x  x  x  x] [ x  x 84  x  x 72] [79  x  x  x 87  x] [ x 18 60 17  x  x]
+[ x  x  x 94  6  x] [ x  x  x 95  x  x] [ x  x  x 85 37  x] [ x  x 56  4  x  x] [76  x  x 56  x 16] [ x  x 33  x  x  x]
+[ x  x  x  x  x  x] [ x  x  x 85 37  x] [ x  x  x  x 41  x] [27  5 71 13 90  x] [ x 10  x  x 14  x] [ x 90  x  x  x  x]
+[ x  x 84  x  x 72] [ x  x 56  4  x  x] [27  5 71 13 90  x] [ x 31  x  x  x  x] [ x  x  x 66 50  x] [ x 77  x  x 90 31]
+[79  x  x  x 87  x] [76  x  x 56  x 16] [ x 10  x  x 14  x] [ x  x  x 66 50  x] [72  2 40 49  x 54] [ x  x  x  x 61  x]
+[ x 18 60 17  x  x] [ x  x 33  x  x  x] [ x 90  x  x  x  x] [ x 77  x  x 90 31] [ x  x  x  x 61  x] [ x  x  x  x  x  x]
+
+[60 21 90  x 86  x] [ x  x  x  x  x  x] [ x 15  x  x 64  x] [ x  x  x 96  x  x] [51  x  x 35 40  x] [ x 99  x 85 53 55]
+[ x  x  x  x  x  x] [ x  x 34  x  x  x] [79  x  x 52  x 56] [ x  x  5  x  x  x] [33  x  x  x  x  x] [ x  x 15 88 79 68]
+[ x 15  x  x 64  x] [79  x  x 52  x 56] [ x  x 11  x 75  x] [ x  x 82  x  x  x] [ x  x 99  x 12 13] [ x 45  x 31  x  x]
+[ x  x  x 96  x  x] [ x  x  5  x  x  x] [ x  x 82  x  x  x] [ x  x  x  x 87 49] [30  x 17 41 73 91] [ x  x  x  x 39  x]
+[51  x  x 35 40  x] [33  x  x  x  x  x] [ x  x 99  x 12 13] [30  x 17 41 73 91] [ x  x  x  x  x  x] [ x  x 32  x  x  x]
+[ x 99  x 85 53 55] [ x  x 15 88 79 68] [ x 45  x 31  x  x] [ x  x  x  x 39  x] [ x  x 32  x  x  x] [ x  x  x  x  x  x]
+
+[ x  x  x  x  x  x] [39 98  x  x  1  x] [62  x  x 38  x  x] [26 96  x 57 34  x] [ x  x 49  x  x  x] [ x 98  x  x 47 96]
+[39 98  x  x  1  x] [67 86  x  x 34  x] [ x 96 45  x  x  x] [ x  x  x 44  x  x] [ x  x  x  x 63 86] [ x  x  x  x 41  x]
+[62  x  x 38  x  x] [ x 96 45  x  x  x] [66  x  x  x 32 15] [ x  x  x  x  x  x] [ 7  6 69  x 50  x] [ x  x  x  x  x  x]
+[26 96  x 57 34  x] [ x  x  x 44  x  x] [ x  x  x  x  x  x] [ x  x  x  x  x  x] [ 6  x  x  x  x  x] [ 2 22  x  x  x  x]
+[ x  x 49  x  x  x] [ x  x  x  x 63 86] [ 7  6 69  x 50  x] [ 6  x  x  x  x  x] [22  x  x 90  x 26] [40 54  x  x  x 52]
+[ x 98  x  x 47 96] [ x  x  x  x 41  x] [ x  x  x  x  x  x] [ 2 22  x  x  x  x] [40 54  x  x  x 52] [37  x  x  x  x  x]
+
+[14  x  x  x  x  x] [ x  x  x  x 32  x] [80 53  x 57  x  x] [83  x 45  7 21  x] [59 57 90 55  x 18] [ x  x  x  x  x  x]
+[ x  x  x  x 32  x] [ x  x  x  x  x  x] [ x  4  x  x 60 16] [ x  x  x 23  x  x] [ x  x  x 50  x  x] [67  x 78 17 82  x]
+[80 53  x 57  x  x] [ x  4  x  x 60 16] [ x 66 98  9  x 22] [ x  x 25 37  x 85] [53  x  x  x  x 43] [ x  x  x 75  x  x]
+[83  x 45  7 21  x] [ x  x  x 23  x  x] [ x  x 25 37  x 85] [ x 63 69  x 80  x] [ x  x  x 37  x 81] [58  x 79 83  x 65]
+[59 57 90 55  x 18] [ x  x  x 50  x  x] [53  x  x  x  x 43] [ x  x  x 37  x 81] [ x  x 29 61  x 16] [ x  x  x 18 18  x]
+[ x  x  x  x  x  x] [67  x 78 17 82  x] [ x  x  x 75  x  x] [58  x 79 83  x 65] [ x  x  x 18 18  x] [ x  x 22  x  x  x]
+
+[80  x 67  x  x 40] [42  x  x  x 32 17] [ x  x  x  x  x 51] [ x 28  x  x 46 11] [ x  x  x  x  x  x] [ x  x 44  7  x  x]
+[42  x  x  x 32 17] [47  x  x  x 37  x] [ x  x  x  x  x 39] [ x  x 66  x  x  x] [ x  3 17  x  x  x] [ x  x  x 40  x  x]
+[ x  x  x  x  x 51] [ x  x  x  x  x 39] [ x  x  x  x 56  x] [ x  x  x  x  x  x] [ x  x  x  x  x 95] [ x 35 97  x  x  x]
+[ x 28  x  x 46 11] [ x  x 66  x  x  x] [ x  x  x  x  x  x] [ x  x 51 68  x  x] [43  x  5  x 44 60] [ x  x 21 10 35  x]
+[ x  x  x  x  x  x] [ x  3 17  x  x  x] [ x  x  x  x  x 95] [43  x  5  x 44 60] [ x  x  x  x  x  x] [ x 47  x 24  x  x]
+[ x  x 44  7  x  x] [ x  x  x 40  x  x] [ x 35 97  x  x  x] [ x  x 21 10 35  x] [ x 47  x 24  x  x] [ x  x  x 12  x  x]
+
+[ x  x 46  x  x 90] [ x 37  x  x 47  x] [63  x  x  x  x  x] [99 64  x 68 87 54] [ x 47  x  x 58 53] [54  x  x  x 93  x]
+[ x 37  x  x 47  x] [ x  6  x 94  x  x] [33  1  x  x  x  x] [ x  x 55  x  x  x] [50  x  x  x 70  x] [ x  x  x  x  x  x]
+[63  x  x  x  x  x] [33  1  x  x  x  x] [51 79  x  x  x  x] [ x  x  x  x  x 22] [ x  x  x 12  x  x] [ x  x  x  8  x  x]
+[99 64  x 68 87 54] [ x  x 55  x  x  x] [ x  x  x  x  x 22] [ x  x 21 72 57  x] [ x  x  x  x  x  x] [89  x 34  x 71  x]
+[ x 47  x  x 58 53] [50  x  x  x 70  x] [ x  x  x 12  x  x] [ x  x  x  x  x  x] [ x 27 75  x 38  x] [ x  x  x 30  x  x]
+[54  x  x  x 93  x] [ x  x  x  x  x  x] [ x  x  x  8  x  x] [89  x 34  x 71  x] [ x  x  x 30  x  x] [ x  x  x  x  x  x]
+
+[ x  x 87  x 72 85] [11  x  x 45  x  x] [ x 69  x  x  x  x] [ x  x  x  x  x 44] [ x  x  x  x 93 15] [ x  x  x  x  x  x]
+[11  x  x 45  x  x] [48  x 84  x  x  x] [ x 67  x  x 20  x] [ x  x 97  x  x  x] [ x  x  x  x  9  x] [ x  x  x 27  x  x]
+[ x 69  x  x  x  x] [ x 67  x  x 20  x] [ x  x  x 34  x  x] [ x  x 32  x 79 52] [50  x  1  x  x  x] [ x  x  x  x  x  x]
+[ x  x  x  x  x 44] [ x  x 97  x  x  x] [ x  x 32  x 79 52] [ x  x  x  x  x  x] [ x  x  x 47  x 18] [11 38  x 43  x 59]
+[ x  x  x  x 93 15] [ x  x  x  x  9  x] [50  x  1  x  x  x] [ x  x  x 47  x 18] [94  x  x 94 42 53] [ x  x  x  x 86  x]
+[ x  x  x  x  x  x] [ x  x  x 27  x  x] [ x  x  x  x  x  x] [11 38  x 43  x 59] [ x  x  x  x 86  x] [79  x  x  x  x  x]
+
+[ x  x  x  x  x 67] [ x  x  x  x  x  x] [ x  x  x 70 79  x] [ x  x 57  x  x  x] [ x  x 30  x  x  x] [ x  x 13  x 83  x]
+[ x  x  x  x  x  x] [ x  x 34  x  x  x] [ x  x  x  x  x  x] [12  x  x 69  x  x] [ x  x  x  x  x 75] [ x  x 56  x  x  x]
+[ x  x  x 70 79  x] [ x  x  x  x  x  x] [ x  x  8 25  x  x] [ x 95  x  x  x  x] [ x  x  x  x  x  x] [ x  x 22  x 85  x]
+[ x  x 57  x  x  x] [12  x  x 69  x  x] [ x 95  x  x  x  x] [ x  x 19 25 19  x] [ x 10  x  x 35  x] [ x  x 30  x  x  x]
+[ x  x 30  x  x  x] [ x  x  x  x  x 75] [ x  x  x  x  x  x] [ x 10  x  x 35  x] [ x 31  x  x  x  x] [76  x  x 98  x 38]
+[ x  x 13  x 83  x] [ x  x 56  x  x  x] [ x  x 22  x 85  x] [ x  x 30  x  x  x] [76  x  x 98  x 38] [ x  x  x 18  x  x]
+
+
+5:  2  5  1  5  5
+0:  2  5  1  0  2  5
+4:  3  2  1  0  4  3  2  3
+4:  2  3  4  1  2  5  1  1  4  4
+0:  0  4  5  0  0  5  1  1  1  1  0
+4:  3  2  5  1  5  1  4  4  3  2  2  5  4
+1:  1  5  0  5  0  0  3  0  1  4  5  3  0  1  4
+1:  5  1  3  5  3  2  0  1  0  4  4  3  4  2  5  5
+2:  0  5  2  1  3  2  2  2  2  0  2  3  4  3  3  0  1  2
+3:  4  3  5  4  2  3  2  1  0  2  1  2  2  0  5  3  4  2  0  0
